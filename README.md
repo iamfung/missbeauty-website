@@ -1,4 +1,4 @@
-#MissBeautyE-Commerce Website
+#Clothing shop E-Commerce Website
 
 #MissBeauty is a princess-themed e-commerce website created as a web development learning project.
 The website showcases elegant gowns and dresses designed to bring a magical and royal shopping experience.
